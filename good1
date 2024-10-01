@@ -1,0 +1,17 @@
+\set{couleur1}{#FF0000}
+\abb{\info}{informatique}
+\set{couleur2}{#00FF00}
+\set{couleur3}{#0000FF}
+\abb{\cd}{\it{code}}
+\begindoc
+Le systeme \bf{RGB} utilise en \info distingue 3 couleurs \it{primaires}:
+\beginenum
+\item \it{\bf{rouge}} \cd en hexadecimal \couleur{couleur1}{\bf{#FF0000}};
+\item \it{\bf{vert}} \cd \couleur{couleur2}{\bf{00FF00}};
+\item \it{\bf{bleu}} code \couleur{couleur3}{\bf{0000FF}};
+\endenum
+Toute autre couleur etant codee par une \couleur{#CDCD0D}{combinaison de ces} trois couleurs.
+\linebreak
+\linebreak
+\bf{Utilisation en Java}
+\enddoc

@@ -1,0 +1,5 @@
+\set{blanc}{#FFFFFF}
+\set{blanc}{#000000}
+\begindoc
+Un fichier qui effectue une surcharge non autorisee de variable pour la couleur.
+\enddoc

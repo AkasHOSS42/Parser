@@ -1,0 +1,4 @@
+\begindoc
+Un fichier utilisant une variable inconnue, pour les couleurs.
+\couleur{dankColor}{lorem ipsum}
+\enddoc
